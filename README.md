@@ -1,6 +1,6 @@
 # Vijayalakshmi H S
 
-`AI/ML` · `Data Science`
+`ML` · `Data Science`
 
 ---
 
